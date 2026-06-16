@@ -23,12 +23,44 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+<h2>Prerequisites</h2>
 
+### Azure Resources
+- Azure Subscription
+- Resource Group
+- Windows 10 Virtual Machine
+- Virtual Network (VNet)
+
+### Operating System
+- Windows 10 Pro (21H2)
+
+### Web Server Components
+- Internet Information Services (IIS)
+- CGI Feature
+
+### Application Dependencies
+- PHP Manager for IIS
+- PHP 7.3.8
+- MySQL Database Server
+- Visual C++ Redistributable
+
+### Installation Files
+- osTicket v1.15.8
+
+### Connectivity
+- Remote Desktop Protocol (RDP)
+- Internet Access
+
+<h2>Skills Demonstrated</h2>
+
+- Cloud Computing (Microsoft Azure)
+- Virtual Machine Administration
+- Remote Desktop Management
+- IIS Web Server Configuration
+- Database Administration (MySQL)
+- Help Desk Ticketing Systems
+- Troubleshooting and System Configuration
+- Documentation and Technical Writing
 <h2>Installation Steps</h2>
 
 <p>
