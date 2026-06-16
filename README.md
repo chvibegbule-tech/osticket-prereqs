@@ -23,8 +23,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-<h2>Prerequisites</h2>
-
 ### Azure Resources
 - Azure Subscription
 - Resource Group
