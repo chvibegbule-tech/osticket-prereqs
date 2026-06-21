@@ -61,27 +61,38 @@ This project outlines the prerequisites and installation of the open-source help
 - Documentation and Technical Writing
 <h2>Installation Steps</h2>
 
-<p>
-                                Create the virtual machine and resource group:
+<p align="center">
+Create the virtual machine and resource group:<br/>
 <img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/cbc2618a-1b7b-4bf2-b58c-294e083ca3f0" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this section, I created the Virtual machine and resource group in Microsoft Azure.
+</p>
+<br />
+
+<p align="center">
+Create the virtual network in the VM:
+<img width="1645" height="782" alt="Screenshot 2026-06-19 083059" src="https://github.com/user-attachments/assets/a98171ae-3624-4cf1-ab9a-6e4ee95374e0" />
+
+</p>
+<p>
+I proceeded to create the network in the VM.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<p align="center">
+In the VM, install OSTicket and all dependencies:
+<img width="3360" height="2100" alt="Screenshot 2026-06-19 at 8 57 30 AM" src="https://github.com/user-attachments/assets/594d889d-245e-4a3e-bbf4-ae5318b477a9" />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I then proceeded to install osTicket in the VM and all its prerequisites.
 </p>
 <br />
+<p align="center">
+osTicket Is Installed:
+<img width="3360" height="1936" alt="image" src="https://github.com/user-attachments/assets/297c44eb-a335-4b62-b668-6bb4689f4cf9" />
+</p>
+<p>
+In this image, osTicket is Installed In the VM.
